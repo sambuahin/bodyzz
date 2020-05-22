@@ -1,0 +1,23 @@
+@font-face {
+  font-family: sacramento;
+  src: url(../fonts/Sacramento-Regular.ttf) format("opentype");
+}
+.background {
+  background-color: white;
+}
+.logo{
+text-align: center;
+}
+.logo_text{
+margin-top: 1em;
+}
+
+.coming-text {
+  font-family: sacramento;
+  font-size: 5em;
+  color: #1b1919;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 1em;
+}
+
