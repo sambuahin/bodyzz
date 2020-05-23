@@ -2,22 +2,28 @@
   font-family: sacramento;
   src: url(../fonts/Sacramento-Regular.ttf) format("opentype");
 }
-.background {
-  background-color: white;
+
+.container {
+  position: relative;
 }
-.logo{
-text-align: center;
+
+.content {
+
 }
-.logo_text{
-margin-top: 1em;
+
+.logo {
+  text-align: center;
+}
+
+.logo_text {
+  margin-top: 1em;
 }
 
 .coming-text {
   font-family: sacramento;
-  font-size: 5em;
+  font-size: 3em;
   color: #1b1919;
-  font-weight: 700;
+  font-weight: 500;
   text-align: center;
-  margin-top: 1em;
+  margin-top: .2em;
 }
-
